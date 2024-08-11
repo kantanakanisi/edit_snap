@@ -1,0 +1,10 @@
+{
+    "@@locale": "en",
+
+    "startScreenTitle": "Edit Snap",
+    "startButtonTitle": "Start Button",
+    "imageSelectScreenTitle": "Select Image",
+    "imageSelect": "Select Picture",
+    "imageEdit": "Edit Picture",
+    "imageEditScreenTitle": "Edit Image"
+}
